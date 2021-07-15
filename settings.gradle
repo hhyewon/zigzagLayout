@@ -1,0 +1,2 @@
+rootProject.name = "rp_week1"
+include ':app'
