@@ -6,35 +6,35 @@
         android:id="@+id/bottom_home"
         app:showAsAction="always"
         android:enabled="true"
-        android:icon="@drawable/bottom_menu1"
+        android:icon="@drawable/bottom_menu_off"
         android:title="홈"/>
 
     <item
         android:id="@+id/bottom_store"
         app:showAsAction="always"
         android:enabled="true"
-        android:icon="@drawable/bottom_menu2"
+        android:icon="@drawable/bottom_menu2_off"
         android:title="스토어"/>
 
     <item
         android:id="@+id/bottom_moa"
         app:showAsAction="always"
         android:enabled="true"
-        android:icon="@drawable/bottom_menu3"
+        android:icon="@drawable/bottom_menu3_off"
         android:title="모아보기"/>
 
     <item
         android:id="@+id/bottom_jjim"
         app:showAsAction="always"
         android:enabled="true"
-        android:icon="@drawable/bottom_menu4"
+        android:icon="@drawable/bottom_menu4_off"
         android:title="찜"/>
 
     <item
         android:id="@+id/bottom_mypage"
         app:showAsAction="always"
         android:enabled="true"
-        android:icon="@drawable/bottom_menu5"
+        android:icon="@drawable/bottom_menu5_off"
         android:title="마이페이지"/>
 
 </menu>
