@@ -14,7 +14,7 @@
 
 > 피드백 사항
 1. ❤를 표시할 때 FrameLayout또는 ConstrainLayout 사용해서 효과 넣기 >> 아이콘 자체를 교체하는 방식으로 진행하기
-2. Status Bar 색상 바꾸기 혹은 없애기
+2. Status Bar 색상 바꾸기 혹은 없애기 ⭕
 
 
 > 개선사항
