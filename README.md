@@ -14,8 +14,8 @@
 
 > 피드백 사항
 1. ❤를 표시할 때 FrameLayout또는 ConstrainLayout 사용해서 효과 넣기 >> 아이콘 자체를 교체하는 방식으로 진행하기
-2. Status Bar 색상 바꾸기 혹은 없애기 ⭕ 
-  ✔ value > themes에서 <item name="android:windowFullscreen">true</item> 추가
+
+2. Status Bar 색상 바꾸기 혹은 없애기 ✔ value > themes에서 "android:windowFullscreen"을 추가하고, true로 지정하여 해결 
 
 
 > 개선사항
